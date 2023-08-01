@@ -56,8 +56,10 @@
 
 ## About The Project
 
-The Enscript-Obfuscator is a Java project designed specifically for RISEN. It was developed using Jetbrains Intellij and Maven with the primary goal of injecting junk code into .c files. Originally created for the RISEN server in early 2021, the project's source code is now accessible to the public on GitHub for anyone interested in using it.
+The Enscript Obfuscator is a Java tool developed using Jetbrains IntelliJ and Maven. Its primary purpose is to inject random junk code into .c files. Originally created for the RISEN server in early 2021, the project's source code is now publicly available on GitHub for anyone interested in using it.
 
+## Support
+No support provided.
 
 <!-- LICENSE -->
 ## License
