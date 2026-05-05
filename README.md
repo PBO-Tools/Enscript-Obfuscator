@@ -1,14 +1,21 @@
 <p align="center">
-    <img src="https://pbo.tools/assets/images/logo.png" width="512">
+  <img src="https://pbo.tools/assets/images/logo_new.png" width="512" alt="PBO Tools Logo">
 </p>
 
+<h2 align="center">Enscript Obfuscator</h2>
 
-## About this project
-* The Enscript Obfuscator is a Java tool developed using Jetbrains IntelliJ and Maven. It is designed to inject random junk code into .c files. Initially created for the RISEN server in early 2021, the project's source code is now accessible on GitHub for public use.
+---
 
+## About
 
-## Discover our Software
-* Discover our PBO obfuscator at https://pbo.tools
-  
+A Java-based obfuscation tool built with **IntelliJ IDEA** and **Maven** that injects random junk code into `.c` files. Originally developed for the **RISEN** server in early 2021, the source code is now publicly available on GitHub.
+
+> **Note:** This is a legacy predecessor to [PBO Tools](https://pbo.tools) — for a modern, fully-featured obfuscation suite, check out PBO Tools instead.
+
+## Discover Our Software
+
+Check out our Enfusion script obfuscator at **[pbo.tools](https://pbo.tools)**.
+
 ## License
-* This software is distributed under GNU General Public License v3.0.
+
+Distributed under the **[GNU General Public License v3.0](./LICENSE)**.
